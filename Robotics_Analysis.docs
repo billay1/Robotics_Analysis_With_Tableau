@@ -1,0 +1,72 @@
+
+
+								
+Emerging Technology Investigation: “Robotics”
+
+
+
+
+
+
+
+
+
+
+
+
+Date: 06/10/2020
+
+Table of Contents
+OVERVIEW--------------------------------------------------------------------------------------------------Page 3
+1-A- WHAT IS ROBOTICS? ------------------------------------------------------------------------------ Page 3
+1-B- HOW IT WORKS? -----------------------------------------------------------------------------------Page 4
+1-C- TOP REASONS WHY ROBOTICS IS VALUABLE ------------------------------------------------Page 5
+1-D- TOP EXAMPLES OF HOW IT IS BEING USED TODAY ----------------------------------------Page 5
+2- A- WHY IT HAS A GOOD CHANCE TO EMERGE AND BE WIDELY ADOPTED (HOW) ----Page 6
+2- B- WHEN IT WILL EMERGE AND WHAT NEEDS TO HAPPEN FOR IT TO EMERGE -------Page 7
+3- A- THE SHORT TERM PREDICTIONS OF ROBOTICS ---------------------------------------------Page 7
+3-B- THE LONG TERM PREDICTIONS OF ROBOTICS ------------------------------------------------Page 8 
+CONCLUSION ------------------------------------------------------------------------------------------------Page 8
+WORD CITATION -------------------------------------------------------------------------------------------Page 9
+
+
+
+
+
+
+Overview
+The Oxford English Dictionary defines Artificial Intelligence (AI) as "the theory and development of computer systems able to perform tasks normally requiring human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages”. AI finds itself implemented in a growing number of fields of application. From Google to Microsoft via Apple, IBM and Facebook, all the big companies in the IT world are currently working on the problems of artificial intelligence by trying to apply it to a few specific areas. The top main trends emerging from AI include robotics. Today it is a certainty, the robotic revolution is launched. But what are these machines which look amazing? Why is this robot technology so present in our daily life today? What are the real uses, and does it hold any future promises? We will provide answers in this focus.
+1-A- What Is Robotics?
+A robot is a device that combines mechanics, electronics and IT. The word robotics is derived from the word robot. Isaac Asimov, the inventor of the word robotics, uses for the first time in one of these news called Runaround. Robotics is then all scientific and industrial fields related to the design and production of robots. Most of the time, a robot has a skeleton with one or more members and a computer that acts as a brain. Embodied robots, for example Roomba robot vacuums, are in our homes. But, they also exist in the non-embodied form of bots, software that perceives and acts. For instance, Chatbots like Alexa, Amazon’s conversational agent installed on Echo products, are found in 20% of American homes. Robots are built to perform dangerous and strenuous tasks that are sometimes complex for humans. The advantage is that they perform these different tasks more precisely and do it independently. Since the 1970s, robots have become mobile, have an on-board computer, have a camera, and most importantly, are able to reason.
+1-B- How It Works?
+A robot is made up of four main parts. A mechanical structure which will be the skeleton of the robot. The second element corresponds to the servo motors which will allow the robot to actually perform its actions. These servo motors will be controlled by the control part in interaction with the information transmitted by the sensors. The third component part of a robot corresponds to the various sensory receptors equipping the robot for a particular application. Finally, the command part, the brain. It is this part which will allow the robot to analyze the data coming from the sensors and to send the orders relating to the servomotors. The control part is physically materialized by the micro-control. Thanks to the research and the massive investments made, we are now able to reproduce the functioning of the human brain through sophisticated and multi-level deep neural networks. These networks operate using graphics processors (GPUs), which are now powerful enough to accelerate deep learning algorithms for training or inference. First, it extracts information about its environment using its sensors. Then its autonomous system makes the decision, and finally, the actuators carry out the action that has been decided. The operation of a robot also depends on its movements and the way it moves, but the movements are managed in the same way as an action performed by an actuator. We can also program a robot to perform a single action. In this case, it is no longer a robot, but an automaton. Programming takes the form of lines of code in one of the existing languages. The algorithms making up this programming include verification of sensor data, actions, and sometimes even reflection. In the same way, few robots feed themselves on energy alone and this therefore is not included in their programming.
+1-C- Top Reasons Why Robotics Is Valuable
+Thanks to robots, we can carry out repetitive processes such as chain production systems. Also, robots are used daily in the operations industry requiring great delicacy and precision, impossible to perform manually, as for increasing efficiency in several industrial processes (robotic systems in logistics centers and warehouses). Robots can increase the quality of any product and provide a high finish quality. They can also eliminate the problems associated with distractions and the effects of repetitive and strenuous tasks. They are able to lift heavy loads without injuring themselves or getting tired. Robots increase worker safety by preventing accidents and replace human dangerous labor like the treatment of dangerous substances.
+1-D- Top Examples Of How It Is Being Used Today
+Robots are used in many fields, the most important of which are:
+•	Industry: industrial robots, particularly in the automotive industry, are widely used for painting, welding, assembly, repair and inspection of finished work. They are also there to carry heavy and/or dangerous parts.
+•	Space exploration: since 1970, scientists have sent robots into space to explore the solar system.
+•	Medicine: robots are used to operate and diagnose a patient. Smart prosthesis aims to repair or even increase the human body: artificial limbs or organs and cardiac simulator
+•	Military: These are robots created for military purposes and as an example, we have the drones. They are autonomous and remotely controlled by the soldiers. 
+•	Home: domestic robots are there to help individuals with their household tasks such as vacuum cleaners, mowers or mixers.
+2- A- Why It Has A Good Chance To Emerge And Be Widely Adopted (How)
+It is clear that artificial intelligence is a new industrial revolution, which accompanies the development of robotics. The recent explosion of autonomous machines is the result of extraordinary advances in the field of deep learning. Robots have proved themselves being incredibly useful, easing human’s life and providing greater proficiency. If robotics is currently mainly used in the manufacturing and production sectors, this technology will soon reach the distribution, finance and even education sectors. In distribution, robotics will play a decisive role in bringing about a merger between physical points of sale and online points of sale. For example, we can be served in a store by a robot seller, who will immediately understand what our favorite brands, clothes and sizes are, for an even more personal and tailor made shopping experience. There is no deny that we cannot underestimate the rise of robotics, which is about to revolutionize the business world. Now the challenge is to identify the areas in which robots could strengthen the workforce, whether it is to perform ordinary and repetitive tasks and free up time to allow employees to focus on tasks with high added value, or simply process information faster. This technology promises to transform our economic models in the years to come. 
+In the future, advances in robotics will lead to the development of household robots, assistants and partners, medical robots, construction robots, pet robots, tele-presence robots and toy robots. These robotic applications will mimic human and animal behavior, and ubiquitous applications will allow them to communicate with each other. All of these quantitative changes will result in qualitative changes as high-speed computer systems have already shown the possibilities offered by faster, more reliable and more precise decision-making and action processes.
+2- B- When It Will Emerge And What Needs To Happen For It To Emerge
+Although robotics has advanced, researchers estimate that it will still take between 30 or 50 years for us to enter the era of strong artificial intelligence. This lengthy timeframe is due to the high cost of robots acquisition as well as people’s reticence to adopt this technology, fearing huge job losses and a less “human word”. However, the development of robotics is linked to two key factors, technological progress and social acceptance. An innovation cannot be taken for granted at first, it has to go through social acceptance. Hence, for a full expansion of robotics, people need to understand that robots have been created to serve human, not to replace them. Society needs to evolve with a mind spirit of “human with robots” not “human against robots”. Moreover, as many jobs disappear because of the robotics revolution, many other ones are created such as Digital tailor or Cyber city analyst. Referring to newscientists.com, robotics will create up to 7 million jobs between 2017 and 2037. Once people fear will disappear, robotics will know its true revolution.
+3- A- The Short Term Predictions Of Robotics
+Robotics have already conquered the industrial, military, medical and household domains. However, I believe that soon enough, this technology will expand to other domains like public security. In fact, predicting and detecting crimes will be soon a reality thanks to drone footage, as according to Laura Bulker, automatic recognition of suspicious activities is already a reality for camera-based security systems. Another domain that is yet to be greatly impacted by robotics is the restauration. In the kitchens of a California fast food restaurant, Flippy, a robot imagined by Miso Robotics for the restaurant chain Cali Burger is able to grill 150 minced steaks per hour. I believe more and more restaurants will adopt robots as cooker soon enough. Furthermore, self-driving cars, although presenting some deficiencies, will get to the day when they will no more require any human intervention. More than a luxury, adopting self-driving car will soon become a wide recommendation to reduce CO2 emission and fight climate change. 
+3-B- The Long Term Predictions Of Robotics
+In the long run, Robotics will incredibly change the educational system. In fact, robots Pepper and NAO, with their attractive aesthetics, their modest size and their human-like behavior, easily bond with students, teachers and researchers. Through the creation of flexible and adapted teaching programs, Pepper and NAO stimulate self-motivation in learning science, technology, engineering, arts and mathematics disciplines and develop their creativity. Moreover, when robotics will be widely adopted, there will be considerable reduction of poverty in the word as the work is done with high precision and faster, and generate more revenues. 
+Conclusion
+Robots have advanced technologically, they improve over time and their capabilities will certainly be beyond our expectations. We note that robots will have an important place in the near future and that the links between Human-Machine will be woven more and more easily. Robots have many advantages, they really improve human life, but there are still tasks that robots cannot do because of their inability to adapt to different situations. Robotics will transform our lives, but we must take into account that such advances will have to be controlled, because there are always abuses, especially in the military field. 
+
+	END
+________________________________________
+
+Word Citations
+Oxford University Press. “Artificial Intelligence”. Accessible at https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095426960. Accessed on 06/09/2020
+“Robots and AI will actually create more jobs than they take”. Accessible at https://www.newscientist.com/article/mg23931873-700-robots-and-ai-will-actually-create-more-jobs-than-they-take/#ixzz6P0tTAwez. Accessed on 06/10/2020
+Buckler, Laura. “10 Ways Robotics Could Transform Our Future”. Accessible at https://blog.robotiq.com/10-ways-robotics-could-transform-our-future. Accessed on 06/10/2020
+Chris Woodford. “Robot”. Accessible at https://www.explainthatstuff.com/robots.html. Accessed on 06/10/2020
+
